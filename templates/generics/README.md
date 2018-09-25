@@ -17,7 +17,6 @@ Creates a file structure as follows:
 /src
 /bin
 /deploy
-/tests
 .gitignore
 LICENSE
 README.md
